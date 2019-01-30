@@ -9,7 +9,7 @@ using System.Text;
 
 namespace AppEntity
 {
-    public  class DataService 
+    public  class DataService : IDataService
     {
         private readonly ApplicationContext _context;
 

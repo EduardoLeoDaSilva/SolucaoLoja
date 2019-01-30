@@ -37,6 +37,8 @@ namespace AplicativoNetCore
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            services.AddTransient<IDataService, DataService>();
+
             services.AddDistributedMemoryCache();
             services.AddSession();
 
@@ -44,7 +46,7 @@ namespace AplicativoNetCore
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IServiceProvider serviceProvider)
         {
             if (env.IsDevelopment())
             {
@@ -66,6 +68,8 @@ namespace AplicativoNetCore
                     name: "default",
                     template: "{controller=Home}/{action=Carrossel}/{id?}");
             });
+
+            serviceProvider.GetService<IDataService>().IniciarBd();
         }
     }
 }
