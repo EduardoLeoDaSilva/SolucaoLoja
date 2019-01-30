@@ -1,0 +1,9 @@
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\bin\Debug\netcoreapp2.1\Objetos.deps.json
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\bin\Debug\netcoreapp2.1\Objetos.dll
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\bin\Debug\netcoreapp2.1\Objetos.pdb
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\obj\Debug\netcoreapp2.1\Objetos.csprojAssemblyReference.cache
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\obj\Debug\netcoreapp2.1\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\obj\Debug\netcoreapp2.1\Objetos.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\obj\Debug\netcoreapp2.1\Objetos.AssemblyInfo.cs
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\obj\Debug\netcoreapp2.1\Objetos.dll
+C:\Users\Familia\source\repos\SolucaoLoja\Objetos\obj\Debug\netcoreapp2.1\Objetos.pdb

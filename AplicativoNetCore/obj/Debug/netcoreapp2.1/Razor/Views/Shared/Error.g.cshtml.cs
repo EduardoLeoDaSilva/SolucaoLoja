@@ -23,8 +23,13 @@ using AplicativoNetCore.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\Views\_ViewImports.cshtml"
+using Objetos;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3969f90348356cf7854f9b6f4b513e2e1400f168", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b690544233f24012377b7d950724f1509bd12173", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
