@@ -23,8 +23,13 @@ using AplicativoNetCore.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\Views\_ViewImports.cshtml"
+using Objetos;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5989146c20e297d05361cc87bf290b8b98e9284", @"/Views/Home/About.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3969f90348356cf7854f9b6f4b513e2e1400f168", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b690544233f24012377b7d950724f1509bd12173", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_About : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

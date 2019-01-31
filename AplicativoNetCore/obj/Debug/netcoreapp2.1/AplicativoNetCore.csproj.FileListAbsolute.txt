@@ -30,3 +30,9 @@ C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp
 C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp2.1\AplicativoNetCore.dll
 C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp2.1\AplicativoNetCore.pdb
 C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp2.1\AplicativoNetCore.csproj.CopyComplete
+C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\bin\Debug\netcoreapp2.1\Objetos.dll
+C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\bin\Debug\netcoreapp2.1\Objetos.pdb
+C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Cadastro.g.cshtml.cs
+C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Carrinho.g.cshtml.cs
+C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Carrossel.g.cshtml.cs
+C:\Users\Familia\source\repos\SolucaoLoja\AplicativoNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Resumo.g.cshtml.cs

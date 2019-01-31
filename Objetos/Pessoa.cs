@@ -9,7 +9,7 @@ namespace Objetos
     {
         [DataMember]
         [Required]
-        public int IdPessoa { get; set; }
+        public int PessoaId { get; set; }
 
         [DataMember]
         [Required(ErrorMessage ="Insira seu Sexo")]
@@ -24,5 +24,7 @@ namespace Objetos
         [Required(ErrorMessage ="Por favor insira a data do seu nascimento!!")]
         public DateTime Nascimento { get; set; }
 
+        public Pedido Pedido { get; set; }
+        
     }
 }
