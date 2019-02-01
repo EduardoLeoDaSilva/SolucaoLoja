@@ -62,7 +62,7 @@ using Objetos;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(49, 86, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24079bfaa0e44f9faa4f4d13e4517176", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5e134951b46449198b0b88202afd4a8", async() => {
                 BeginContext(55, 73, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <title>Catalogo de Produtos</title>\r\n");
                 EndContext();
@@ -82,7 +82,7 @@ using Objetos;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(137, 423, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "724c31fb4c1d45b899a26c1d8895466d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0645e3ef148142068ecf5d19f9836046", async() => {
                 BeginContext(143, 16, true);
                 WriteLiteral("\r\n\r\n    <ul>\r\n\r\n");
                 EndContext();
@@ -117,7 +117,7 @@ using Objetos;
                 WriteLiteral(" <br />\r\n                Codigo do Produto <br />\r\n\r\n                ");
                 EndContext();
                 BeginContext(362, 60, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2a0fbcb65c6c4eb9b0a1683b857214aa", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0b758daec5b144d69323c5fc635cd527", async() => {
                     BeginContext(392, 21, true);
                     WriteLiteral("Adicionar no carrinho");
                     EndContext();
@@ -139,7 +139,7 @@ using Objetos;
                 WriteLiteral(" <br />\r\n                ");
                 EndContext();
                 BeginContext(447, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d58cef258ec48558d0ededdc872ffb0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3047788c0c0439e8b42cc46da5b52b0", async() => {
                     BeginContext(477, 8, true);
                     WriteLiteral("Cadastro");
                     EndContext();
